@@ -67,13 +67,6 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
-    <None Include=".gitignore" />
-    <None Include="README.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="LICENSE" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="core.h" />
   </ItemGroup>
   <ItemDefinitionGroup />
